@@ -20,6 +20,8 @@
         <version>3.0.0</version>
         <configuration>
           <warSourceDirectory>WebContent</warSourceDirectory>
+		  <finalName>doc-mgr</finalName>
+		  <warName>doc-mgr</warName>
         </configuration>
       </plugin>
     </plugins>
